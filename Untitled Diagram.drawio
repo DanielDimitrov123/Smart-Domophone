@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H16sCqd-bdcKT7crxtp5-1" value="ATmega328" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H16sCqd-bdcKT7crxtp5-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H16sCqd-bdcKT7crxtp5-2" target="H16sCqd-bdcKT7crxtp5-7">
           <mxGeometry relative="1" as="geometry" />
@@ -41,9 +41,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H16sCqd-bdcKT7crxtp5-17" value="SIM800L&lt;div&gt;module&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="390" y="240" width="120" height="120" as="geometry" />
+          <mxGeometry x="400" y="240" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="H16sCqd-bdcKT7crxtp5-18" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" vertex="1" parent="1">
+        <mxCell id="H16sCqd-bdcKT7crxtp5-18" value="speaker" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" vertex="1" parent="1">
           <mxGeometry x="200" y="65" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H16sCqd-bdcKT7crxtp5-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -65,16 +65,16 @@
           <mxGeometry x="530" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H16sCqd-bdcKT7crxtp5-37" value="TxD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="420" width="40" height="20" as="geometry" />
+          <mxGeometry x="490" y="420" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H16sCqd-bdcKT7crxtp5-38" value="RxD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="420" width="40" height="20" as="geometry" />
+          <mxGeometry x="420" y="420" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H16sCqd-bdcKT7crxtp5-39" value="RxD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="370" width="40" height="20" as="geometry" />
+          <mxGeometry x="490" y="360" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H16sCqd-bdcKT7crxtp5-40" value="TxD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="370" width="40" height="20" as="geometry" />
+          <mxGeometry x="420" y="360" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H16sCqd-bdcKT7crxtp5-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="H16sCqd-bdcKT7crxtp5-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -90,6 +90,27 @@
               <mxPoint x="260" y="300" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="H16sCqd-bdcKT7crxtp5-47" value="mic&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;rophone&lt;/span&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="65" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H16sCqd-bdcKT7crxtp5-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="H16sCqd-bdcKT7crxtp5-49" target="H16sCqd-bdcKT7crxtp5-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="195" />
+              <mxPoint x="320" y="195" />
+              <mxPoint x="320" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H16sCqd-bdcKT7crxtp5-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="125" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="H16sCqd-bdcKT7crxtp5-51" value="speaker" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H16sCqd-bdcKT7crxtp5-53" value="microphone" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
