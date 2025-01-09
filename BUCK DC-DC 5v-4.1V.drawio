@@ -144,20 +144,20 @@
         </mxCell>
         <mxCell id="pDESHIX1cG-cDZ0Ue_ff-41" value="" style="endArrow=oval;html=1;rounded=0;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="820" y="460" as="sourcePoint" />
-            <mxPoint x="820" y="410" as="targetPoint" />
+            <mxPoint x="813" y="460" as="sourcePoint" />
+            <mxPoint x="813" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pDESHIX1cG-cDZ0Ue_ff-42" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="460" as="sourcePoint" />
-            <mxPoint x="800" y="460" as="targetPoint" />
+            <mxPoint x="833" y="460" as="sourcePoint" />
+            <mxPoint x="793" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pDESHIX1cG-cDZ0Ue_ff-43" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800" y="470" as="sourcePoint" />
-            <mxPoint x="840" y="470" as="targetPoint" />
+            <mxPoint x="793" y="470" as="sourcePoint" />
+            <mxPoint x="833" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pDESHIX1cG-cDZ0Ue_ff-44" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="pDESHIX1cG-cDZ0Ue_ff-52">
@@ -183,8 +183,8 @@
         </mxCell>
         <mxCell id="pDESHIX1cG-cDZ0Ue_ff-47" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="820" y="540" as="sourcePoint" />
-            <mxPoint x="820" y="470" as="targetPoint" />
+            <mxPoint x="813" y="540" as="sourcePoint" />
+            <mxPoint x="813" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pDESHIX1cG-cDZ0Ue_ff-48" value="" style="shape=mxgraph.arrows2.wedgeArrowDashed2;html=1;bendable=0;startWidth=22;stepSize=15;rounded=0;" edge="1" parent="1">
@@ -195,8 +195,8 @@
         </mxCell>
         <mxCell id="pDESHIX1cG-cDZ0Ue_ff-49" value="" style="shape=mxgraph.arrows2.wedgeArrowDashed2;html=1;bendable=0;startWidth=22;stepSize=15;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="820" y="540" as="sourcePoint" />
-            <mxPoint x="820" y="570" as="targetPoint" />
+            <mxPoint x="813" y="540" as="sourcePoint" />
+            <mxPoint x="813" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pDESHIX1cG-cDZ0Ue_ff-51" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="pDESHIX1cG-cDZ0Ue_ff-50">
@@ -282,32 +282,32 @@
         </mxCell>
         <mxCell id="pDESHIX1cG-cDZ0Ue_ff-64" value="" style="shape=mxgraph.arrows2.wedgeArrowDashed2;html=1;bendable=0;startWidth=22;stepSize=15;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="590" y="540" as="sourcePoint" />
-            <mxPoint x="590" y="570" as="targetPoint" />
+            <mxPoint x="578" y="540" as="sourcePoint" />
+            <mxPoint x="578" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pDESHIX1cG-cDZ0Ue_ff-65" value="" style="shape=mxgraph.arrows2.wedgeArrow;html=1;bendable=0;startWidth=15;fillColor=strokeColor;defaultFillColor=invert;defaultGradientColor=invert;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="590" y="480" as="sourcePoint" />
-            <mxPoint x="590" y="460" as="targetPoint" />
+            <mxPoint x="578" y="480" as="sourcePoint" />
+            <mxPoint x="578" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pDESHIX1cG-cDZ0Ue_ff-66" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="460" as="sourcePoint" />
-            <mxPoint x="610" y="460" as="targetPoint" />
+            <mxPoint x="558" y="460" as="sourcePoint" />
+            <mxPoint x="598" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pDESHIX1cG-cDZ0Ue_ff-67" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="540" as="sourcePoint" />
-            <mxPoint x="590" y="480" as="targetPoint" />
+            <mxPoint x="578" y="540" as="sourcePoint" />
+            <mxPoint x="578" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pDESHIX1cG-cDZ0Ue_ff-68" value="" style="endArrow=oval;html=1;rounded=0;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="460" as="sourcePoint" />
-            <mxPoint x="590" y="410" as="targetPoint" />
+            <mxPoint x="578" y="460" as="sourcePoint" />
+            <mxPoint x="578" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pDESHIX1cG-cDZ0Ue_ff-69" value="" style="endArrow=oval;html=1;rounded=0;endFill=1;targetPerimeterSpacing=17;" edge="1" parent="1">
@@ -380,7 +380,7 @@
           <mxGeometry x="610" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pDESHIX1cG-cDZ0Ue_ff-84" value="MBR360" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="480" width="60" height="30" as="geometry" />
+          <mxGeometry x="580" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pDESHIX1cG-cDZ0Ue_ff-85" value="330uF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="480" width="60" height="30" as="geometry" />
@@ -393,6 +393,9 @@
         </mxCell>
         <mxCell id="pDESHIX1cG-cDZ0Ue_ff-88" value="U1&amp;nbsp; &amp;nbsp; &amp;nbsp; LM2596-ADJ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="370" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pDESHIX1cG-cDZ0Ue_ff-89" value="FB 1&lt;div&gt;270R&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="350" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
