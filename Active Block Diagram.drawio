@@ -80,10 +80,10 @@
           <mxGeometry x="550" y="140" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="if4jXls3vVssXIEcy42T-29" value="НЕ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="200" width="60" height="30" as="geometry" />
+          <mxGeometry x="340" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="if4jXls3vVssXIEcy42T-30" value="ДА" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="210" width="60" height="30" as="geometry" />
+          <mxGeometry x="520" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="if4jXls3vVssXIEcy42T-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="if4jXls3vVssXIEcy42T-32" target="if4jXls3vVssXIEcy42T-33">
           <mxGeometry relative="1" as="geometry" />
