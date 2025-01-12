@@ -1,9 +1,132 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5">
   <diagram name="Page-1" id="sfny1Cia6Uq0bXt5Li9_">
-    <mxGraphModel>
+    <mxGraphModel dx="14" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mtROBgjGFp7WJ7JP82o_-1" value="Живущ 1" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="420" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="mtROBgjGFp7WJ7JP82o_-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#1A1A1A;fillColor=light-dark(#1A1A1A,#EDEDED);fillStyle=solid;gradientColor=none;gradientDirection=radial;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="490" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mtROBgjGFp7WJ7JP82o_-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#1A1A1A;fillColor=light-dark(#1A1A1A,#EDEDED);fillStyle=solid;gradientColor=none;gradientDirection=radial;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="490" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mtROBgjGFp7WJ7JP82o_-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#1A1A1A;fillColor=light-dark(#1A1A1A,#EDEDED);fillStyle=solid;gradientColor=none;gradientDirection=radial;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="490" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mtROBgjGFp7WJ7JP82o_-5" value="Живущ N" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="420" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="mtROBgjGFp7WJ7JP82o_-6" value="Домофон" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="420" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="mtROBgjGFp7WJ7JP82o_-7" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1300" y="340" as="sourcePoint" />
+            <mxPoint x="1340" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1340" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtROBgjGFp7WJ7JP82o_-8" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1300" y="280" as="sourcePoint" />
+            <mxPoint x="1400" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1380" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtROBgjGFp7WJ7JP82o_-9" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1300" y="310" as="sourcePoint" />
+            <mxPoint x="1370" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1360" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtROBgjGFp7WJ7JP82o_-10" value="антена" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="360" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mtROBgjGFp7WJ7JP82o_-11" value="антена" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="400" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mtROBgjGFp7WJ7JP82o_-12" value="антена" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mtROBgjGFp7WJ7JP82o_-17" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1750" y="370" as="sourcePoint" />
+            <mxPoint x="1710" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1750" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtROBgjGFp7WJ7JP82o_-18" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1730" y="370" as="sourcePoint" />
+            <mxPoint x="1710" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1730" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtROBgjGFp7WJ7JP82o_-19" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1740" y="370" as="sourcePoint" />
+            <mxPoint x="1710" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1740" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtROBgjGFp7WJ7JP82o_-20" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2030" y="360" as="sourcePoint" />
+            <mxPoint x="1990" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2030" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtROBgjGFp7WJ7JP82o_-21" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2010" y="360" as="sourcePoint" />
+            <mxPoint x="1990" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2010" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtROBgjGFp7WJ7JP82o_-22" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2020" y="360" as="sourcePoint" />
+            <mxPoint x="1990" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2020" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtROBgjGFp7WJ7JP82o_-30" value="GSM кула" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="360" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mtROBgjGFp7WJ7JP82o_-31" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="240" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mtROBgjGFp7WJ7JP82o_-35" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="1517.5" y="230" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="mtROBgjGFp7WJ7JP82o_-32" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="180" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mtROBgjGFp7WJ7JP82o_-33" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="180" width="30" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
