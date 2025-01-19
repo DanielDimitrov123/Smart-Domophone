@@ -14,7 +14,7 @@ void setup() {
   // Initialize SD card
   while (!Serial);
   Serial.println("Initializing SD card...");
-  if (!SD.begin(chipSelect)) {
+  if (!SD.begin(CSpin)) {
     Serial.println("initialization failed. Things to check:");
     Serial.println("1. is a card inserted?");
     Serial.println("2. is your wiring correct?");
@@ -56,7 +56,7 @@ void loop() {
 }
 
 void playWavFile( String fileName) {
-  audio.play( fileName);
+  audio.play( fileName.c_str());
   delay(2000);
 }
 
@@ -84,7 +84,7 @@ String extractPhoneNumber(String response) {
 }
 
 String ReadFromSD( String fileName) {
-  myFile = SD.open(fileName);
+  File myFile = SD.open(fileName);
   if (myFile) {
     Serial.println(fileName);
     while (myFile.available()) {
